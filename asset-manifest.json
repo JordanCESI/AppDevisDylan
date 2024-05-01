@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppDevisDylan/static/css/main.fafa3725.css",
+    "main.js": "/AppDevisDylan/static/js/main.c389ab8a.js",
+    "static/js/453.385f960a.chunk.js": "/AppDevisDylan/static/js/453.385f960a.chunk.js",
+    "index.html": "/AppDevisDylan/index.html",
+    "main.fafa3725.css.map": "/AppDevisDylan/static/css/main.fafa3725.css.map",
+    "main.c389ab8a.js.map": "/AppDevisDylan/static/js/main.c389ab8a.js.map",
+    "453.385f960a.chunk.js.map": "/AppDevisDylan/static/js/453.385f960a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafa3725.css",
+    "static/js/main.c389ab8a.js"
+  ]
+}
